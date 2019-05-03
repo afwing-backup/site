@@ -1,0 +1,73 @@
+---
+title: 歼-10 侧面图
+tags:
+categories:
+  - 旧站资源
+  - 涂装与标记
+  - 侧视图
+date: 2013-06-01 08:00:00
+updated: 2013-06-01 08:00:00
+---
+
+> 原作者：Topgunchen
+> 原始链接：http://www.kongyiwang.com/gallery/j10.htm
+
+<!-- more -->
+
+![](https://afwing-backup.img.noc.one/old-gallery-j10/j10_f_01.jpg)
+
+01 号原型机
+
+![](https://afwing-backup.img.noc.one/old-gallery-j10/j10_f_02.jpg)
+
+1006 号原型机
+
+![](https://afwing-backup.img.noc.one/old-gallery-j10/j10_f_04.jpg)
+
+空 2 师歼-10
+
+![](https://afwing-backup.img.noc.one/old-gallery-j10/j10_f_05.jpg)
+
+巴基斯坦空军 F-10
+
+![](https://afwing-backup.img.noc.one/old-gallery-j10/j10_f_06.jpg)
+
+海航歼-10
+
+![](https://afwing-backup.img.noc.one/old-gallery-j10/j10_f_07.jpg)
+
+空军“八一”飞行表演队歼-10
+
+![](https://afwing-backup.img.noc.one/old-gallery-j10/j10_f_08.jpg)
+
+歼-10 对地攻击迷彩
+
+![](https://afwing-backup.img.noc.one/old-gallery-j10/j10_f_09.jpg)
+
+成飞外销型
+
+![](https://afwing-backup.img.noc.one/old-gallery-j10/j10_f_10.jpg)
+
+海航低可视海洋迷彩
+
+![](https://afwing-backup.img.noc.one/old-gallery-j10/j10_f_11.jpg)
+
+假想敌 F-16 涂装
+
+![](https://afwing-backup.img.noc.one/old-gallery-j10/j10_f_12.jpg)
+
+假想敌 幻影2000 涂装
+
+![](https://afwing-backup.img.noc.one/old-gallery-j10/j10_f_13.jpg)
+
+未涂装
+
+![](https://afwing-backup.img.noc.one/old-gallery-j10/j10_f_14.jpg)
+
+空军歼教-10
+
+![](https://afwing-backup.img.noc.one/old-gallery-j10/j10_f_15.jpg)
+
+贵航歼教-10 原型机
+
+-End-
