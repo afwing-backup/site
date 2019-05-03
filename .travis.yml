@@ -1,0 +1,19 @@
+language: node_js
+node_js:
+  - "11"
+git:
+  depth: 5
+  quiet: true
+install:
+  - yarn global add hexo-cli -g
+  - yarn
+script:
+  - hexo clean && hexo g
+  - gulp
+  - chmod +x ./deploy.sh
+  - ./deploy.sh > /dev/null
+cache:
+  directories:
+    - "node_modules"
+branches:
+  - master
