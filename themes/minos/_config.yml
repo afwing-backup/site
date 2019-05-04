@@ -34,7 +34,7 @@ menu:
 # Search plugin settings.
 search:
   type: google-cse
-  cx:
+  cx: 017507374549931397585%3Ajhlgzbg4jti
 
 # Navigation bar toc settings
 toc: true
