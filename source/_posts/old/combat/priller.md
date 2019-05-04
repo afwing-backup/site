@@ -5,8 +5,8 @@ categories:
   - 旧站资源
   - 战术讨论
   - 空战英雄
-date: 2013-06-01 08:00:00
-updated: 2013-06-01 08:00:00
+date: 2013-01-01 08:00:00
+updated: 2013-01-01 08:00:00
 ---
 
 ![](https://afwing-backup.img.noc.one/old-combat/Prillb.jpg)

@@ -5,8 +5,8 @@ categories:
   - 旧站资源
   - 涂装与标记
   - 侧视图
-date: 2013-06-01 08:00:00
-updated: 2013-06-01 08:00:00
+date: 2013-01-01 08:00:00
+updated: 2013-01-01 08:00:00
 ---
 
 > 原始链接：http://www.kongyiwang.com/gallery/p47theme.htm
