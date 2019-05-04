@@ -1,0 +1,219 @@
+---
+title: 梅塞施密特 Me 109 的涂装和标志
+tags:
+categories:
+  - 旧站资源
+  - 涂装与标记
+  - 侧视图
+date: 2013-06-01 08:00:00
+updated: 2013-06-01 08:00:00
+---
+
+> 原著:Rick Kent （括号内内容为译者注释）  Luke 编译
+> 原始链接：http://www.kongyiwang.com/gallery/me109-2.htm
+> 相关资料：[黄鼻子的 Me 109](/old-gallery-me109/)
+
+德国空军在二战期间并没有像英国皇家空军一样严格执行标准的涂装要求，所以其涂装也是千奇百怪，有标准的也有不标准的。以下是 Me 109 的一些涂装，以年代为序，从中我们也可以一窥纳粹德国的兴衰。
+
+<!-- more -->
+
+![](https://afwing-backup.img.noc.one/old-gallery/me109/image001.png)
+
+<p align="center">
+**Me109E-3**
+4. Staffel（中队），II. Gruppe（大队），JG 77（战斗机联队）
+飞行员：Helmut Henz 中尉（中队长）
+波兰，1939 年 9 月
+</p>
+
+　　这是一架早期涂装的 Me 109E-3，入侵波兰时使用过，机身上部和侧面的碎片迷彩是由 RLM70 墨绿和 RLM71 暗绿组成，机身底部是 RLM65 浅蓝。机身编号、II. Gruppe 的死神标志和螺旋桨毂盖都是白色，都说明这是一架 4. Staffel 的飞机。
+
+![](https://afwing-backup.img.noc.one/old-gallery/me109/image003.gif)
+
+　　作为识别标记，Me 109 在波兰战场上首次使用了黄色的机头涂装，以免在执行地面攻击任务时被友军的炮火击中；据我所知，德国空军在波兰被友军击中的飞机比比被敌军击中的还多。在之后的地面攻击作战中，黄色的机头被更广泛的使用。II/JG 77 的海鸥盾形标志两侧都有，而 4. Staffel 的死神标志则只在左侧。注意早期小型的十字标志，白边和黑边都很窄，以及初期万字的位置 。
+
+　　注意黄色三角标注的燃料加注舱口的位置。这架飞机也显了位于机身后部的急救舱口（放有急救包），上面有白底红十字的正方形标志。
+
+----
+
+![](https://afwing-backup.img.noc.one/old-gallery/me109/image005.png)
+
+<p align="center">
+**Me 109E-1**
+Stab（指挥部），JG 53
+飞行员：Wilfried Balfanz 中尉
+德国，洪斯吕克山（Hunsrück），基希贝格（Kirchberg），1939 年秋
+</p>
+
+　　这是一架入侵波兰到入侵法国期间的 109E-1，当战争早期飞机上部的 RLM70/71 已经被证明在波兰战场显得太深之后，德国战斗机部队使用了非常特殊的碎片迷彩，机身上部是 RLM70 墨绿，RLM02 灰和 RLM62 绿，底部仍是战争早期的 RLM65 浅蓝。机身上的十字仍是早期的样式白边和黑边都很窄，万字仍横跨垂尾和方向舵的中线。
+
+![](https://afwing-backup.img.noc.one/old-gallery/me109/image007.gif)
+
+　　注意在垂尾上有 1 次击落的标志,就在水平尾翼的前上方。机头上的 JG 53 的黑桃标志是很有名的。但这架 109 看起来相当不寻常：机身上有队部长机的标志（<II），但飞行员只是中尉军衔 ，有此标志的飞机通常由少校军官驾驶，不过也可以说是奖励王牌而设立的飞机，没有具体的限定。三角形仍由红色与黄色组成。需要提醒的是，德国战斗机的所有可操纵总面上的调整片都被涂成红色 ，以示警告，防止意外损坏。
+
+----
+
+![](https://afwing-backup.img.noc.one/old-gallery/me109/image009.png)
+
+<p align="center">
+**Me 109E-4**
+3. Staffel，I. Gruppe，JG 2
+飞行员：Franz Fiby 少尉
+法国，勒阿弗尔（Le Havre），1940 年 7 月
+</p>
+
+　　这架 109E-4 属于著名的里奇特霍芬（Richthofen）（一战德国头号王牌）战斗机联队：JG 2。在不列颠战场时，其基本的涂装饰采用了入侵法国时的标准涂装：机身上部是 RLM71 暗绿和 RLM02 灰的碎片迷彩，侧面及底部是 RLM65 浅蓝。
+
+![](https://afwing-backup.img.noc.one/old-gallery/me109/image011.gif)
+
+　　在法国战场和不列颠战场期间，飞行员喜欢在机身上涂上各种杂乱的斑点和线条，这架 JG2 的飞机上的 RLM71 暗绿斑点看起来与众不同，应为这些斑点都是用短毛刷和碎布团涂上去的，而不是其他部队通常使用的喷枪，其伪装效果的确比使用喷枪更好。 注意这些斑点是如何涂在十字标志的黑边和白边之间的。
+
+![](https://afwing-backup.img.noc.one/old-gallery/me109/image012.gif)
+
+　　万字现在已经移到垂尾前部。螺旋桨毂盖是黑色，桨叶是 RLM70 墨绿。注意在风挡玻璃下边的银色盾牌，其中的著名的红色字母“R”代表里奇特霍芬；机头上是 3.Staffel 的剑形“HORRIDO”标志，这些标志机身两边都有。 机身上的黄色编号同样显示这是 3.Staffel 的战机。
+
+----
+
+![](https://afwing-backup.img.noc.one/old-gallery/me109/image014.png)
+
+<p align="center">
+**Me 109E-3**
+Stab（指挥部），JG 53
+飞行员：Hans-Jurgen von Cramon-Taubadel 少校（联队指挥官）
+法国，维特尔-墨佩尔迪（瑟堡东部）（Thevile-Maupertus，Cherbourg-Ost），1940 年 8 月
+</p>
+
+　　关于这架 109E-3 的标志有一段很有趣的故事。由于 von Cramon-Taubadel 少校娶了一个犹太妻子，所以在法国战场期间，戈林他命令所有 JG 53 的战斗机必须去掉他们著名的黑桃标志，并涂上围绕整个机头的红色识别带，象征耻辱。1940 年秋 von Cramon-Taubadel 被免职，戈林允许他们恢复黑桃标志；但作为抗议，所有 JG 53 的飞行员不再使用万字标志。所以在不列颠战场的后期，有些 Me 109 的垂尾上没有万字。
+
+　　这张侧面图显示了 JG 53 在瑟堡到海峡岛屿（泽西群岛）驻守期间，von Cramon-Taubadel 的战机。其基本的涂装是机身上部由  RLM70 墨绿和 RLM02 灰组成的碎片迷彩，侧面是由 RLM65 浅蓝和 RLM02 灰组成的斑点迷彩。使用了尺寸更大的十字，白边更宽，但黑边仍很窄。
+
+　　螺旋桨毂盖和联队指挥官的标志（<-—）是黑色，后者由白色的窄边。桨叶是 RLM70。
+
+----
+
+![](https://afwing-backup.img.noc.one/old-gallery/me109/image017.png)
+
+<p align="center">
+**Me 109E-4**
+2. Staffel，I. Gruppe，JG 52
+飞行员：Helmut Benneman中尉（中队长） 法国，卡菲尔斯（Caffiers），1940 年 10 月
+</p>
+
+　　我使用这架 109E-4 来说明大面积的黄色涂装源于 1940 年秋的不列颠战场后期。有些作者相信这预示着德军将入侵英国，当然，这一切并没有发生；我认为这只能说明德军想在激烈的空战中能更好的辨认敌友。这架飞机上，黄色在最平常的位置：机头和方向舵。当然有些飞机在更多的地方：包括翼尖，水平尾翼，升降舵，和副翼上都使用了黄色。
+
+![](https://afwing-backup.img.noc.one/old-gallery/me109/image019.gif)
+
+　 机头和螺旋桨毂盖是黄色，桨叶是 RLM70 墨绿。上部涂装是 RLM71 暗绿和 RLM02 灰的碎片迷彩，底部和侧面是 RLM65 浅蓝，侧面有 RLM71 的斑点迷彩，机身上的大型十字之后很常见，有更宽的白边。在十字的黑色部分有急救红十字，但底面已经不是白色方块，而是白色圆盘。2. Staffel 的编号是黑色 ，并有白边。机头标志两边都有。
+
+----
+
+![](https://afwing-backup.img.noc.one/old-gallery/me109/image020.png)
+
+<p align="center">
+**Me 109F-2**
+1. Staffel，I. Gruppe，JG 3
+飞行员：Robert Olejnik中尉（中队长） 东线，1941 年夏
+</p>
+
+　　这架东部前线的 Me 109F-2 入侵苏联不久。基本的涂装是机身上部是 RLM02 灰和 RLM70 墨绿的融合迷彩，机身下部和侧面是 RLM76 浅蓝，有灰色和白色的斑点迷彩。但我仍怀疑为什么在机头、翼尖和后部机身的识别带使用黄色识别色（注意机头的白边红三角，指向润滑油加注口）。 
+
+![](https://afwing-backup.img.noc.one/old-gallery/me109/image022.gif)
+
+　　I/JG3 的白蛇标志在机头两边都有（手绘，各架飞机略有不同）。编号和大部分的螺旋桨毂盖也是白色的，但编号有黑色窄边，螺旋桨毂盖的下部也是黑色（覆盖了1/4或1/3的毂盖）。方向舵上有 21 次击落的标志, 20 个黑的和 1 个白的。
+
+----
+
+![](https://afwing-backup.img.noc.one/old-gallery/me109/image024.png)
+
+<p align="center">
+**Me 109F-4/trop**
+6. Staffel, II. Gruppe, JG 3
+西西里岛, 1942 年春
+</p>
+
+![](https://afwing-backup.img.noc.one/old-gallery/me109/image026.gif)
+
+　　这架 Me 109F-4/热带型 显示相当典型的德国空军沙漠涂装和标志。其基本的涂装是机身上部是 RLM79 沙褐，机身下部是 RLM78 天蓝。侧面有少许的 RLM80 橄榄绿的斑点迷彩。机身上宽幅的白色识别带是在北非，西西里，和意大利执行任务的德军飞机的标准涂装，因为这接近于意大利飞机涂装；在这架特殊的飞机上翼尖也是白色的。当然，引擎罩的下部仍使用了黄色识别涂装。螺旋桨毂盖的前部，编号和大队识别条全都是黄色的。螺旋桨毂盖的后部是黑色，桨叶是 RLM70 墨绿。II/JG3 的盾型标志机身两边都有。当然，为了适应热带沙漠气候，这架飞机的发动机增压器的进气口装有过滤器。
+
+----
+
+![](https://afwing-backup.img.noc.one/old-gallery/me109/image028.png)
+
+<p align="center">
+**Me 109G-6**
+7. Staffel, III. Gruppe, JG1
+荷兰，弗里斯兰（Friesland），吕伐登（Leeuwarden），1944 年夏
+</p>
+
+　　这架 Me 109G-6 的基本涂装是不列颠战场后期所采用的，但已有所改变。机身上部是 RLM74 灰绿和 RLM75 灰紫的融合迷彩，下部和侧部是 RLM76 浅蓝。侧面使用了杂色斑纹迷彩, 杂乱的 RLM75 涂在蓝色的底面上，显得比较深（注意，下部和侧面的迷彩已经开始融合）。 
+
+　　螺旋桨毂盖是黑色，有 1/3 是白色。在机头，鹰型的数字“1”是 JG 1 的后期标志。机身上的十字已经没有黑边，但编号和大队识别条仍有细的黑边。后部机身上是 JG 1 的红色识别带。需要注意的是识别带的宽度每架飞机的各不相同。
+
+![](https://afwing-backup.img.noc.one/old-gallery/me109/image030.gif)
+
+　　注意加贮辛烷（原文如此，疑为甲烷，燃油添加剂，用以增加发动机功率，作用类似涡轮增压器）的黄色三角形在 G 型上向后移到了类似 109E 的位置, 在机身的上部而不是在翼根上部。
+
+----
+
+![](https://afwing-backup.img.noc.one/old-gallery/me109/image032.png)
+
+<p align="center">
+**Me 109G-6/R-6**
+7. Staffel, III. Gruppe, JG 3
+德国南部, 1943 冬-1944 冬
+</p>
+
+　　下一架是 109G-6/R-6，机翼下有附加的航炮。机身上部涂装由 RLM74 灰绿和 RLM75 灰，下部和侧部是 RLM76 浅蓝。侧面有 RLM75 的斑点迷彩，座舱的下后方有大块的 RLM02 灰。螺旋桨毂盖是黑色和白色螺旋线，7. Staffel 的 编号"11"和 JG 3 识别带是白色，而 III. Gruppe 的识别条是黑色。
+
+![](https://afwing-backup.img.noc.one/old-gallery/me109/image034.gif)
+
+　　在战斗机联队使用各自不同颜色的识别带之前，有许多联队使用白色识别带作为德国国防军的标志。这次十字和万字都没有黑边。JG 3 的 "乌德特（Udet）"（一战德国王牌）盾形标志是由红色和白色组成，机身两边都有 III. Gruppe 的流星标志; 流星的形状各架飞机又少许的不同, 可能是手绘的，而非使用了模版。
+
+----
+
+![](https://afwing-backup.img.noc.one/old-gallery/me109/image036.png)
+
+<p align="center">
+**Me 109G-6/R-3/R-6**
+2. Staffel，I. Gruppe，JG 302
+芬兰，马尔米（Malmi），1944 年 3 月
+</p>
+
+　　这架 109G-6 的冬季涂装相当复杂。机身上部是 RLM74 灰绿和 RLM75 紫灰，机身下部是 RLM76 浅蓝，侧面有 RLM75 斑纹迷彩。大多数飞机上的冬季白色涂装相当自由，包括十字和万字都被白色斑纹覆盖，底部仍是 RLM76，座舱盖框架是 RLM74，而黄色的方向舵识别色没有被白色覆盖。 
+
+　　红色的飞机编号“29”有细的白边。 螺旋桨毂盖是黑色，有 1/3 的白色。桨叶也是 RLM70 墨绿。
+
+----
+
+![](https://afwing-backup.img.noc.one/old-gallery/me109/image039.png)
+
+<p align="center">
+**Me 109K-4/R-3**
+Stab，III. Gruppe，JG 27
+德国，1944 年末
+</p>
+
+　　这架 109K 的涂装样式显示了主要由棕色和绿色组成的杂色斑纹迷彩，许多德国战斗机在战争末期使用过这种地面伪装迷彩，另一方面这也显示了自从 1940 年以来命运的反复，那时皇家空军使用这一色系的迷彩，而德国飞机则使用灰色阴影系的涂装。
+
+　　机身上部涂装是 RLM81 紫褐和 RLM82 浅绿的融合迷彩，侧面是 RLM84 蓝绿，并有 RLM81 紫褐和 RLM82 浅绿的斑纹迷彩，下部是 RLM76 浅蓝。指定的 RLM84 蓝绿是推测得来的，一些新的研究显示，这种天空色系的颜色应为 RLM99 绿。需要提醒的是到了战争末期，许多标准油漆的储存已经枯竭，许多飞机使用任何可以得到的油漆来涂装，所以很多颜色并不标准。
+
+
+　　螺旋桨毂盖是黑色和宽幅的白色螺旋线。翼下的黑色十字和机翼上的白色十字都没有任何轮廓线。机身上的十字是 RLM82，有宽幅的白边；黑色的万字也有白边，III.Gruppe 副官的<型标志和 III. Gruppe 的识别条都是黑色加白边，而 JG 27 的识别带则是绿色的。
+
+----
+
+![](http://www.afwing.vip/images/sideview/me109/image042.png)
+
+<p align="center">
+**Me 109K-4**
+11. Staffel，III. Gruppe，JG 3
+飞行员：Feldwebel Strebel
+德国，帕萨沃克（Passewalk），1945 年 3 月
+</p>
+
+
+　　最后是另一架 k 型。其涂装是战争末期最常见的一种，机身上部是 RLM75 紫灰和 RLM82 浅绿，下部是 RLM76 浅蓝。十字和万字标志和先前的 109K 型一样,螺旋桨毂盖还是黑色加白色的螺旋线。
+
+　　III. Gruppe 的识别条是黑色加黄色的细边，黄色的编号 “4”显示 11.Staffel 。白色手写体的名字“Ingeborg”只在左侧的座舱下方。
+
+![](http://www.afwing.vip/images/sideview/me109/image044.gif)
