@@ -1,0 +1,14 @@
+#  ____          _     _          
+# / ___|  _   _ | | __| | __ __ _ 
+# \___ \ | | | || |/ /| |/ // _` |
+#  ___) || |_| ||   < |   <| (_| |
+# |____/  \__,_||_|\_\|_|\_\\__,_|
+
+User-agent: *
+Disallow: /ping
+Disallow: /beacon
+Disallow: /disqus
+Disallow: /data
+Disallow: *.md
+
+Sitemap: https://blog.skk.moe/sitemap.xml
